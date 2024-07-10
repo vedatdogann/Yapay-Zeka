@@ -13,7 +13,7 @@ Eğitim script'ini çalıştırın:
 
 Sonuçlar
 Model tarafından üretilen bazı örnek anime yüzler:
-
+![anime](https://github.com/vedatdogann/Yapay-Zeka/assets/104203746/53e72646-7f93-4250-8068-58b2d730e15a)
 
 Katkıda Bulunma
 Katkılarınızı bekliyoruz! Herhangi bir iyileştirme veya öneri için bir sorun açabilir veya pull request gönderebilirsiniz.
