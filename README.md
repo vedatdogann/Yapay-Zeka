@@ -1,27 +1,15 @@
-StyleGAN ile Anime Yüz Oluşturma
+# StyleGAN ile Anime Yüz Oluşturma
 Bu proje, StyleGAN kullanarak yüksek kaliteli anime yüzler üretmeyi amaçlamaktadır.
 
-Veri Seti
+##Veri Seti
 Eğitim için kullanılan veri seti [veri seti adı ve bağlantısı]. Eğitime başlamadan önce veri setini indirip data dizinine yerleştirdiğinizden emin olun.
 
-Eğitim
+##Eğitim
 Modeli sıfırdan eğitmek için:
 
-Veri setini gerekli formata hazırlayın.
+Veri setini gerekli formata hazırlayın ve eğitin. Sonuçları analiz ederek epoch değerlerini datasetinize göre ayarlayın ve tekrar eğitin.
 
-Eğitim script'ini çalıştırın:
-
-Sonuçlar
+##Sonuçlar
 Model tarafından üretilen bazı örnek anime yüzler:
 ![anime](https://github.com/vedatdogann/Yapay-Zeka/assets/104203746/53e72646-7f93-4250-8068-58b2d730e15a)
 
-Katkıda Bulunma
-Katkılarınızı bekliyoruz! Herhangi bir iyileştirme veya öneri için bir sorun açabilir veya pull request gönderebilirsiniz.
-
-Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosyasına bakın.
-
-Teşekkür
-Bu proje, StyleGAN mimarisi temel alınarak oluşturulmuştur.
-Eğitimde kullanılan veri seti için 
-Bu taslağı kendi projenize ve ihtiyaçlarınıza göre özelleştirebilirsiniz. Herhangi bir özel bilgi veya ek bölüm eklemek isterseniz, bana bildirin, yardımcı olayım.
